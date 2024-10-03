@@ -1,0 +1,57 @@
+[
+  {
+    "name": "⚙ Config",
+    "color": "e3dede",
+    "description": "디펜던시 업데이트"
+  },
+  {
+    "name": "✨ Feat",
+    "color": "a2eeef",
+    "description": "신규 기능 추가"
+  },
+  {
+    "name": "🌏 Deploy",
+    "color": "C2E0C6",
+    "description": "배포"
+  },
+  {
+    "name": "🎨 Modify",
+    "color": "FEF2C0",
+    "description": "기능 수정"
+  },
+  {
+    "name": "🐞 BugFix",
+    "color": "d73a4a",
+    "description": "Something isn't working"
+  },
+  {
+    "name": "💻 Front-End",
+    "color": "C5DEF5",
+    "description": "프론트엔드 작업"
+  },
+  {
+    "name": "📃 Docs",
+    "color": "1D76DB",
+    "description": "문서 작성 및 수정 (README.md 등)"
+  },
+  {
+    "name": "📬 Back-End",
+    "color": "D4C5F9",
+    "description": "백엔드 작업"
+  },
+  {
+    "name": "🔨 Refactor",
+    "color": "f29a4e",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "🙋‍♂️ Question",
+    "color": "8b00ff",
+    "description": "Further information is requested"
+  },
+  {
+    "name": "✅ Test",
+    "color": "ccffc4",
+    "description": "test 관련(storybook, jest...)"
+  }
+]
