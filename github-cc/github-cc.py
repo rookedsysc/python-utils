@@ -18,7 +18,7 @@ def generate_html(usernames):
             avatar_url = user_info['avatar_url']
             name = user_info['login']  
 
-            html += f'''<img src="{avatar_url}" alt="{name}" width="15" height="15" style="vertical-align: middle;"> [{name}]({profile_url}), '''
+            html += f'''<td><img src="{avatar_url}" alt="{name}" width="15" height="15" style="vertical-align: middle;"> <a href="https://github.com/{name}">{name}</a></td>'''
         else:
             html += f"{username}, "
             
