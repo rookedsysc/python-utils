@@ -20,13 +20,13 @@
     "description": "기능 수정"
   },
   {
-    "name": "🐞 BugFix",
+    "name": "🐞 Bug",
     "color": "d73a4a",
     "description": "Something isn't working"
   },
   {
     "name": "💻 Front-End",
-    "color": "C5DEF5",
+    "color": "e3dede",
     "description": "프론트엔드 작업"
   },
   {
@@ -36,13 +36,18 @@
   },
   {
     "name": "📬 Back-End",
-    "color": "D4C5F9",
+    "color": "e3dede",
     "description": "백엔드 작업"
   },
   {
     "name": "🔨 Refactor",
-    "color": "f29a4e",
+    "color": "C5DEF5",
     "description": "코드 리팩토링"
+  },
+  {
+    "name": "⚡️ Perf",
+    "color": "f29a4e",
+    "description": "성능 개선"
   },
   {
     "name": "🙋‍♂️ Question",
