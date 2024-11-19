@@ -5,10 +5,7 @@ Playwright라는 라이브러리를 사용해서 유튜브 댓글을 Scraping하
 ## Installation
 
 ```bash
-pip install playwright
-pip install pandas
-pip install langdetect
-pip install matplotlib
-pythyon -m playwright install
+pip install playwright pandas langdetect matplotlib
+python -m playwright install
 python playwright-youtube.py
 ```
