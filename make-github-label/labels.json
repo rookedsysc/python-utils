@@ -58,5 +58,10 @@
     "name": "✅ Test",
     "color": "ccffc4",
     "description": "test 관련(storybook, jest...)"
+  },
+  {
+    "name": "🗑️ Chore",
+    "color": "d6a887",
+    "description": "자잘한 작업 (디펜던시 업데이트에 따른 설정 변경 등)"
   }
 ]
