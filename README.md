@@ -1,4 +1,4 @@
-## Overview 
+## Overview
 
 - [github-cc](https://github.com/rookedsysc/python-utils/blob/main/github-cc/github-cc.py)
 
@@ -12,3 +12,7 @@ python3 github-cc
 - [make-github-label](https://github.com/rookedsysc/python-utils/tree/main/make-github-label)
 
 github 신규 repository 생성시 label 생성
+
+- [playwright-youtube](https://github.com/rookedsysc/python-utils/blob/main/playwright-youtube/playwright-youtube.py)
+
+유튜브 댓글 Scraping하는 Playwright 코드
